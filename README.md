@@ -1,7 +1,7 @@
 ### Olá eu sou o Guilherme 👋🏻
 
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/guilhermemagalhães28)
+)](https://www.linkedin.com/in/guilhermemagalh%C3%A3es28/)
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=gui-macedo-7&show_icons=true&theme=github_dark)
 
