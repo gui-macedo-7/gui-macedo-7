@@ -19,4 +19,4 @@
     <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div><br>
 
-### 📚 Cursando o PROPROFISSÃO no Instituto PROA
+### 📚 Formado no curso PROPROFISSÃO do Instituto PROA
