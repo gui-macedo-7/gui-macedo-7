@@ -24,12 +24,10 @@ Possuo formação no <strong>Instituto PROA</strong> no curso <strong>PROPROFISS
 
 ### 📫 Entre em contato
 
-<p style="display: flex; gap: 10px;">
+<p>
   <a href="https://www.linkedin.com/in/guilhermemagalh%C3%A3es28/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
   <a href="mailto:guilherme.maga28@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" width="40" height="40" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="Gmail" width="40" height="40"/></a>
 </p>
 
