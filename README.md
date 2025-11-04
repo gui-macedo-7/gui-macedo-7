@@ -7,8 +7,6 @@ Possuo formação no <strong>Instituto PROA</strong> no curso <strong>PROPROFISS
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<hr style="border: 0; height: 1px; background: #555555ff; margin-bottom: 10px"/>
-
 <p style="display: flex; gap: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
